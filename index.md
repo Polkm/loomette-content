@@ -1,4 +1,4 @@
-Loomette is broken down into a set of sub categories called 'spools'. Please explore our curated content and find something new.
+Loomette is a currated collection of sub categories called 'spools' each spool is dedicated to preseting informative and interesting content of the hgihest quality. Please explore find something new or interesting to enjoy.
 
 [Gastronomy](/gastronomy)
 ----
