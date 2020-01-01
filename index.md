@@ -2,9 +2,13 @@ Loomette is a currated collection of sub categories called 'spools' each spool i
 
 [Gastronomy](/gastronomy)
 ----
+Explore the delicious world of food and drink. Where to find it and how to make it.
+
 [Finance](/finance)
 ----
-[Programming](/programming)
-----
+Discover and find insights into the fincial sector.
+
 [Chemistry](/chemistry)
 ----
+Engage with the systems and mechanics that control the very fabric of our universe.
+
