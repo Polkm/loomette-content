@@ -11,8 +11,9 @@
 * 10 ounces cool water
 
 ## Time
-| Prep | Cook | Rest | Total |
-| 30m | 40m | 2hr | 3hr 10m |
+| Prep | Cook | Rest | Total   |
+| ---- | ---- | ---- | ------- |
+| 30m  | 40m  | 2hr  | 3hr 10m |
 
 ## Instructions
 1. Measure the warm water in a small bowl and sprinkle the yeast on top. Set aside.
