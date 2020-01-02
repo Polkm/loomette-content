@@ -1,12 +1,12 @@
 # Crusty French Baguette
 
 ## Products
-* 4 baguettes (about 60 1/2 inch slices)
+* 4 [baguettes](/gastronomy/foods/baguette) (about 60 1/2 inch slices)
 
 ## Ingredients
 * 1.75 ounces warm water
 * 1.5 teaspoons active dry yeast
-* 16 ounces bread flour
+* 16 ounces [bread flour](/gastronomy/foods/flour-wheat.md)
 * 2 teaspoons salt
 * 10 ounces cool water
 
