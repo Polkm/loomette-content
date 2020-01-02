@@ -1,4 +1,5 @@
-# Crusty French Baguette
+# Basic Baguette
+This baguette is a good starting point for anyone looking to get into making them or wants a good base to work off when making something more exotic.
 
 ### Products
 * 4 [baguettes](/gastronomy/foods/baguette) (about 60 1/2 inch slices)
