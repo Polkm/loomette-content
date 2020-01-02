@@ -1,1 +1,1 @@
-Gastronomy is the study of the relationship between food and culture, the art of preparing and serving rich or delicate and appetizing food, the cooking styles of particular regions, and the science of good eating.
+Gastronomy is the study of the relationship between [food](/gastronomy/foods), [drink](/gastronomy/drinks), and culture, the art of [preparing](/gastronomy/recipes) and serving rich or delicate and appetizing food, the cooking styles of particular regions, and the science of good eating.

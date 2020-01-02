@@ -1,0 +1,1 @@
+Foods are any edible product that can be eaten on its own or incorporated into a greater recipe.

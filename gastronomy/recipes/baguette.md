@@ -6,7 +6,7 @@
 ## Ingredients
 * 1.75 ounces warm water
 * 1.5 teaspoons active dry yeast
-* 16 ounces [bread flour](/gastronomy/foods/flour-wheat.md)
+* 16 ounces [bread flour](/gastronomy/foods/flour-wheat)
 * 2 teaspoons salt
 * 10 ounces cool water
 

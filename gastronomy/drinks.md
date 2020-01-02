@@ -1,0 +1,1 @@
+Drinks are products that can be enjoyed on their own or mixed into a larger [recipe](/gastronomy/recipes)
